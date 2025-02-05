@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clenz Studio - Corporate Wellness & Skincare</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        .container { width: 90%; max-width: 1200px; margin: auto; padding: 20px; }
+        .header { text-align: center; padding: 50px 20px; background: #f4f4f4; }
+        .services, .benefits, .about, .cta { padding: 50px 20px; }
+        .cta { text-align: center; background: #efefef; padding: 30px; }
+        .cta a { background: #333; color: #fff; padding: 10px 20px; text-decoration: none; }
+        .about img, .services img, .benefits img { width: 100%; max-width: 600px; display: block; margin: auto; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Boost Your Team’s Well-being with Clenz Studio</h1>
+        <p>Professional skincare and stress-relief solutions tailored for businesses.</p>
+    </div>
+    <div class="container">
+        <section class="about">
+            <h2>About Clenz Studio</h2>
+            <p>Clenz Studio specializes in high-quality skincare and wellness treatments designed to relieve stress and enhance skin health. We provide tailored solutions for individuals and businesses, ensuring a holistic approach to well-being.</p>
+            <img src="about-image.jpg" alt="Clenz Studio" />
+        </section>
+        <section class="services">
+            <h2>Our Corporate Wellness Services</h2>
+            <ul>
+                <li>On-site stress-relief facial treatments</li>
+                <li>Skincare workshops for employees</li>
+                <li>Custom skincare solutions for executives</li>
+                <li>Flexible corporate wellness packages</li>
+            </ul>
+            <img src="services-image.jpg" alt="Corporate Wellness Services" />
+        </section>
+        <section class="benefits">
+            <h2>Why Partner with Clenz Studio?</h2>
+            <ul>
+                <li>Reduce workplace stress and increase productivity</li>
+                <li>Enhance employee well-being and satisfaction</li>
+                <li>Customized skincare solutions for your team</li>
+                <li>Convenient on-site and studio treatments</li>
+            </ul>
+            <img src="benefits-image.jpg" alt="Employee Wellness Benefits" />
+        </section>
+        <section class="cta">
+            <h2>Let's Talk!</h2>
+            <p>Book a consultation to explore how Clenz Studio can support your business.</p>
+            <a href="#">Schedule a Call</a>
+        </section>
+    </div>
+</body>
+</html>
